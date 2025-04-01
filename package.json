@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-movie",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscardperez26/proyecto-movie.git"
+  },
+  "author": "oscar_perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscardperez26/proyecto-movie/issues"
+  },
+  "homepage": "https://github.com/oscardperez26/proyecto-movie#readme",
+  "description": ""
+}
