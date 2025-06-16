@@ -2,7 +2,7 @@
 let page = 1;
 let btnload; // Variable global para el botón
 
-
+const API_KEY = "dab460dbaf9fa1a0397027a771311cdb"
 const api = axios.create({
   baseURL:"https://api.themoviedb.org/3/",
   headers:{
